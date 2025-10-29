@@ -6,11 +6,18 @@ This repository contains a full-stack coding assignment for building a mock e-co
 
 - _**Screenshots:**_
   ![Product Listing](./frontend/public/assets/images/product-listing.png)
-  ![Product Listing](./frontend/public/assets/images/product-listing-with-cart-added.png)
-  ![Product Listing](./frontend/public/assets/images/cart-page.png)
-  ![Product Listing](./frontend/public/assets/images/checkout-model.png)
-  ![Product Listing](./frontend/public/assets/images/order-confirmation.png)
-- _**Demo Video:**_ [View Demo Video](https://nexora-ecom-cart-demo.vercel.app/)
+  ![Product Listing with Cart Added](./frontend/public/assets/images/product-listing-with-cart-added.png)
+  ![Cart Page](./frontend/public/assets/images/cart-page.png)
+  ![Checkout Model](./frontend/public/assets/images/checkout-model.png)
+  ![Order Confirmation](./frontend/public/assets/images/order-confirmation.png)
+
+  - _**Mobile View Screenshots:**_
+    ![Product Listing](./frontend/public/assets/images/product-listing-mobile-view.png)
+    ![Cart Page](./frontend/public/assets/images/cart-page-mobile-view.png)
+    ![Checkout Page](./frontend/public/assets/images/checkout-page-mobile-view.png)
+    ![Order Confirmation](./frontend/public/assets/images/order-confirmation-mobile-view.png)
+
+- _**Demo Video:**_ [View Demo Video](https://www.loom.com/share/8b1f7957b3a34416b63337ab3847e99b/)
 - _**Live Preview:**_ [View Live Preview](https://nexora-ecom-cart-demo.vercel.app/)
 
 ## Features
