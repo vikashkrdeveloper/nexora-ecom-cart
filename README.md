@@ -7,7 +7,7 @@ This repository contains a full-stack coding assignment for building a mock e-co
 - _**Screenshots:**_
   ![Product Listing](./frontend/public/assets/images/product-listing.png)
   ![Product Listing with Cart Added](./frontend/public/assets/images/product-listing-with-cart-added.png)
-  ![Cart Page](./frontend/public/assets/images/cart-page.png)    
+  ![Cart Page](./frontend/public/assets/images/cart-page.png)
   ![Checkout Model](./frontend/public/assets/images/checkout-model.png)
   ![Order Confirmation](./frontend/public/assets/images/order-confirmation.png)
 
