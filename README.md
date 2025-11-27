@@ -1,4 +1,4 @@
-# Full Stack Coding Assignment: Mock E-Com Cart || Nexora
+# Full Stack Coding Assignment: Mock E-Com Cart || Nexora    
 
 This repository contains a full-stack coding assignment for building a mock e-commerce cart application using the MERN stack (MongoDB, Express, React, Node). The application allows users to view products, add them to a cart, update quantities, and proceed to checkout.
 
